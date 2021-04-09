@@ -16,7 +16,7 @@ Kontakt | Contact
 ## Footer
 Schulkennzahl | Schulkennzahl  
 Bildungsangebot | Educational Offering  
-Informatik | Information Technology  
+Informatik | Informatics  
 IT-Medientechnik | Media Technology  
 Elektronik und technische Informatik |  
 Biomedizin- und Gesundheitstechnik |  
