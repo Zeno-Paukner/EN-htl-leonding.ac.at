@@ -41,7 +41,7 @@ Die Digitalisierer |  The Digitizers
 Schulleitung |  
 Abendschule | Night School  
 Fachschule | Fachschule  
-Sekretariat |  
+Sekretariat |  Secretariat, Registry 
 Elternverein |  
 Schülervertreter |  
 Lehrervertreter |  
@@ -50,6 +50,12 @@ Stellvertreter |
 Klassensprecher | Class President
 Bildungsberater |  
 Langzeitprojekt |  
-Formular |  
+Formular |  Form
 Schulgemeinschaftsausschuss/SGA |
-Absolventenverband
+Absolventenverband |
+nostrifiziert | validated
+Ansehen | "get a closer look", "check out"
+Messe | Fair
+Frist | deadline, period
+Tag der offenen tür | "Open-house day"
+Schnuppertage | "trial days", try-out-day
